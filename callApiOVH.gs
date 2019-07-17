@@ -1,6 +1,14 @@
 /**
   * # Instantiate. Visit https://api.ovh.com/createToken/index.cgi?GET=/me
   * to get your credentials
+  * OVH Europe
+  * $endpoint = 'ovh-eu';
+  * Documentation: https://eu.api.ovh.com/
+  * Community support: api-subscribe@ml.ovh.net
+  * Console: https://eu.api.ovh.com/console
+  * Create application credentials: https://eu.api.ovh.com/createApp/
+  * Create script credentials (all keys at once): https://eu.api.ovh.com/createToken/
+  *   
   */
   
   var APP            = '*****';
